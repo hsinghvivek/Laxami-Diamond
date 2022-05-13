@@ -37,19 +37,19 @@
               "src/assets/css/plugins/owl.carousel.min.css",
               "node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css",
               "node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css",
-              "src/assets/css/plugins/aos.min.css",
-              "src/assets/css/plugins/bootstrap.css",
+              "node_modules/aos/dist/aos.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
 
               "src/assets/css/style.css",
               "src/assets/css/responsive.css",
               "src/styles.scss"
             ],
             "scripts": [
-              "src/assets/js/vendor/jquery-3.1.1.min.js",
-              "src/assets/js/vendor/bootstrap.bundle.min.js",
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "src/assets/js/vendor/tilt.jquery.js",
               "src/assets/js/vendor/owl.carousel.min.js",
-              "src/assets/js/vendor/aos.min.js",
+              "node_modules/aos/dist/aos.js",
               "src/assets/js/vendor/TweenMax.min.js",
               "src/assets/js/script.js"
             ]
